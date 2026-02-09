@@ -8,7 +8,7 @@
 
 과제의 내용은 아래 링크를 통해 커밋나우 홈페이지에서 확인할 수 있습니다.
 
-> [과제내용 보러가기](https://sandbox.commitnow.dev/assignment/Apache-Airflow-로컬-실행-DAG-구현-과제-초급자용-YwDD9MU4)
+> [과제내용 보러가기](https://commitnow.dev/assignment/Apache-Airflow-로컬-실행-DAG-구현-과제-초급자용-YwDD9MU4)
 
 과제의 설명과 요구사항을 잘 참고하여, 구현해 주세요.
 
